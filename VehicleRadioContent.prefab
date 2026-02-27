@@ -63,7 +63,7 @@ MonoBehaviour:
         displayName: Bot Play Chance
         orderPriority: 1
         value:
-          value: 0
+          value: 10
           min: 0
           max: 100
           wholeNumbers: 1
